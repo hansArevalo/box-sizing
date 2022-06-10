@@ -1,0 +1,13 @@
+*{
+    box-sizing:dorder-box;
+}
+.element{
+ /* box-sizing:content-box; -no: ;no determina el tamaño del alto ni ancho*/
+  box-sizing:dorder-box;/*valores definitovos */
+  width: 200px;
+  height: 200px;
+  background-color: purple;
+  border:30px solid steelblue;
+  padding:30px;
+  margin: auto;
+}
